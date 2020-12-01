@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Public Sans';
+    src: url('PublicSans-Thin.eot');
+    src: url('PublicSans-Thin.eot?#iefix') format('embedded-opentype'),
+        url('PublicSans-Thin.woff') format('woff'),
+        url('PublicSans-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Public Sans';
+    src: url('PublicSans-ThinItalic.eot');
+    src: url('PublicSans-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('PublicSans-ThinItalic.woff') format('woff'),
+        url('PublicSans-ThinItalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
